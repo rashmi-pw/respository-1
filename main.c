@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    printf("Hello university of sri jayewardhenapura!\n");
     return 0;
 }
